@@ -2854,7 +2854,79 @@
                     "oAuthConfiguration": {
                         "oAuthConfigurationId": "MjQzMmI1N2ItMGFiZC00M2RiLWFhN2ItMTZlYWRkMTE1ZDM0IyM2MTUzZTMyOS1lODZhLTRjMzQtOGYyMi0zNzZmN2QxY2NmZTY="
                     },
-                    "tools": []
+                    "tools": [{
+      "name": "list_issues",
+      "description": "List issues in a GitHub repository.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "direction": {
+            "description": "Sort direction",
+            "enum": [
+              "asc",
+              "desc"
+            ],
+            "type": "string"
+          },
+          "labels": {
+            "description": "Filter by labels",
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "owner": {
+            "description": "Repository owner",
+            "type": "string"
+          },
+          "page": {
+            "description": "Page number for pagination (min 1)",
+            "minimum": 1,
+            "type": "number"
+          },
+          "perPage": {
+            "description": "Results per page for pagination (min 1, max 100)",
+            "maximum": 100,
+            "minimum": 1,
+            "type": "number"
+          },
+          "repo": {
+            "description": "Repository name",
+            "type": "string"
+          },
+          "since": {
+            "description": "Filter by date (ISO 8601 timestamp)",
+            "type": "string"
+          },
+          "sort": {
+            "description": "Sort order",
+            "enum": [
+              "created",
+              "updated",
+              "comments"
+            ],
+            "type": "string"
+          },
+          "state": {
+            "description": "Filter by state",
+            "enum": [
+              "open",
+              "closed",
+              "all"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "owner",
+          "repo"
+        ]
+      },
+      "annotations": {
+        "title": "List issues",
+        "readOnlyHint": true
+      }
+    }]
                 }
             },
             "sharePointAppsDiscovery": {
