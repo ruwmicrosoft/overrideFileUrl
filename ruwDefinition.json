@@ -1,0 +1,233 @@
+{
+	"value": {
+		"appDefinitions": [
+			{
+				"manifestVersion": "1.21",
+				"version": "1.0.4",
+				"externalId": "7e8c43fa-3385-4ac4-8662-dc01c76c26d1",
+				"supportedHubs": [
+					"Office",
+					"Teams"
+				],
+				"developerName": "Your developer name",
+				"developerUrl": "https://go.microsoft.com/fwlink/?linkid=2138949",
+				"privacyUrl": "https://go.microsoft.com/fwlink/?linkid=2138950",
+				"termsOfUseUrl": "https://go.microsoft.com/fwlink/?linkid=2138865",
+				"validDomains": [
+					"*.botframework.com",
+					"*.*.botframework.com",
+					"copilotstudio.microsoft.com",
+					"copilotstudio.preview.microsoft.com"
+				],
+				"bots": [
+					{
+						"id": "c630c212-c981-46ed-b778-d1af27298e99",
+						"scopes": [
+							"Personal",
+							"Copilot"
+						],
+						"isNotificationOnly": false,
+						"supportsCalling": false,
+						"supportsVideo": false,
+						"supportsFiles": true,
+						"supportsSessions": false
+					}
+				],
+				"isFullScreen": false,
+				"showLoadingIndicator": false,
+				"tenantId": "fdb85f67-3ebd-4e2c-b655-b84d916ab5aa",
+				"mpnId": "0000000",
+				"activities": {
+					"activityItems": [
+						{
+							"type": "systemDefault",
+							"description": "Other activities",
+							"templateText": "{systemDefaultText}"
+						}
+					]
+				},
+				"defaultBlockUntilAdminAction": false,
+				"metaCapabilities": {
+					"bots": {
+						"scopes": [
+							"Personal",
+							"Copilot"
+						]
+					},
+					"copilotExtensions": {
+						"scopes": []
+					},
+					"declarativeCopilots": {
+						"scopes": []
+					}
+				},
+				"copilotExtensions": {
+					"declarativeCopilots": [
+						{
+							"id": "cr48b_testAgent.gpt.default",
+							"fileUrl": "https://us-prod.asyncgw.teams.microsoft.com/v1/objects/0-wus-d5-56ce032a452d60d06899274d0d5f6a53/views/original",
+							"agentClassification": "Consumption",
+							"isBlocked": false
+						}
+					]
+				},
+				"isCopilotEnabled": true,
+				"supportsChannelLevelActivation": false,
+				"appSourceDetails": {
+					"appSource": "Unknown",
+					"appType": "LOB"
+				},
+				"shortDescription": "Built using Microsoft Copilot Studio.",
+				"longDescription": "Help employees stay informed, productive, and connected. Create agents by describing its functionality and adding knowledge sources to it, and see it answer any question in a matter of minutes.",
+				"accentColor": "#E0F6FC",
+				"id": "1568a041-61dc-4c9a-846e-8da9f6e4567b",
+				"name": "Bug Analysis Agent",
+				"smallImageUrl": "https://us-prod.asyncgw.teams.microsoft.com/v1/objects/0-wus-d8-af95d4e2e2b159621e4805e338c14953/views/imgpsh_fullsize",
+				"largeImageUrl": "https://us-prod.asyncgw.teams.microsoft.com/v1/objects/0-wus-d4-322b4357fa1cde745170d6031dc7c4bc/views/imgpsh_fullsize",
+				"isMobileOnly": false
+			},
+			{
+				"manifestVersion": "1.16",
+				"version": "1.0.5",
+				"externalId": "c630c212-c981-46ed-b778-d1af27298e99",
+				"supportedHubs": [
+					"Outlook",
+					"Office",
+					"Teams"
+				],
+				"developerName": "Microsoft Corporation",
+				"developerUrl": "https://www.microsoft.com",
+				"privacyUrl": "https://support.microsoft.com/en-us/office/supplementary-terms-of-service-for-teams-apps-powered-by-microsoft-365-services-and-applications-bc6027fe-68c3-4758-a70d-cfe97c43b4e2",
+				"termsOfUseUrl": "https://support.microsoft.com/en-us/office/supplementary-terms-of-service-for-teams-apps-powered-by-microsoft-365-services-and-applications-bc6027fe-68c3-4758-a70d-cfe97c43b4e2",
+				"validDomains": [
+					"token.botframework.com",
+					"*.devtunnels.ms"
+				],
+				"bots": [
+					{
+						"id": "c630c212-c981-46ed-b778-d1af27298e99",
+						"scopes": [
+							"GroupChat",
+							"Personal",
+							"Team"
+						],
+						"commandLists": [
+							{
+								"scopes": [
+									"GroupChat"
+								],
+								"commands": [
+									{
+										"title": "Highlights from the past 7 days",
+										"description": " ",
+										"type": "basic"
+									},
+									{
+										"title": "What decisions were made?",
+										"description": " ",
+										"type": "basic"
+									},
+									{
+										"title": "Search the web for",
+										"description": " ",
+										"type": "basic"
+									},
+									{
+										"title": "Summarize the file",
+										"description": " ",
+										"type": "basic"
+									}
+								]
+							},
+							{
+								"scopes": [
+									"Team"
+								],
+								"commands": [
+									{
+										"title": "Schedule a meeting",
+										"description": " ",
+										"type": "basic"
+									}
+								]
+							}
+						],
+						"isNotificationOnly": false,
+						"supportsCalling": true,
+						"supportsVideo": true,
+						"supportsFiles": true,
+						"supportsSessions": false
+					}
+				],
+				"isFullScreen": false,
+				"inputExtensions": [
+					{
+						"botId": "c630c212-c981-46ed-b778-d1af27298e99",
+						"canUpdateConfiguration": false,
+						"scopes": [
+							"Personal",
+							"Team",
+							"GroupChat"
+						],
+						"type": "botBased"
+					}
+				],
+				"webApplicationInfo": {
+					"id": "c630c212-c981-46ed-b778-d1af27298e99",
+					"resource": "api://botid-c630c212-c981-46ed-b778-d1af27298e99"
+				},
+				"showLoadingIndicator": false,
+				"tenantId": "fdb85f67-3ebd-4e2c-b655-b84d916ab5aa",
+				"activities": {
+					"activityItems": [
+						{
+							"type": "systemDefault",
+							"description": "Other activities",
+							"templateText": "{systemDefaultText}"
+						}
+					]
+				},
+				"authorization": {
+					"permissions": {}
+				},
+				"defaultBlockUntilAdminAction": false,
+				"metaCapabilities": {
+					"bots": {
+						"scopes": [
+							"GroupChat",
+							"Personal",
+							"Team"
+						]
+					},
+					"messageExtensions": {
+						"scopes": [
+							"Personal",
+							"Team",
+							"GroupChat"
+						]
+					},
+					"copilotExtensions": {
+						"scopes": []
+					},
+					"copilotPlugins": {
+						"scopes": []
+					}
+				},
+				"isCopilotEnabled": true,
+				"supportsChannelLevelActivation": false,
+				"appSourceDetails": {
+					"appSource": "Unknown",
+					"appType": "LOB"
+				},
+				"shortDescription": "BookSeeker",
+				"longDescription": "Copilot can answer questions, find files, create agendas, and more in group chats and meetings.",
+				"accentColor": "#FFFFFF",
+				"id": "3148d61d-14fb-4a22-b96b-f744ebaab846",
+				"name": "BookSeeker",
+				"smallImageUrl": "https://us-prod.asyncgw.teams.microsoft.com/v1/objects/0-wus-d7-6d8467387c728e47e31b9b627aa6cb96/views/imgpsh_fullsize",
+				"largeImageUrl": "https://us-prod.asyncgw.teams.microsoft.com/v1/objects/0-wus-d10-ff2f86bbe3776f722dcc350f5fa67355/views/imgpsh_fullsize",
+				"isMobileOnly": false
+			}
+		]
+	}
+}
