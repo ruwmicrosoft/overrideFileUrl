@@ -1,0 +1,1205 @@
+{
+    "value": {
+        "appCatalogMetadata": {
+            "copilotPluginAllowedAppIds": [
+                "c738b607-88dd-4f16-aefe-6a824c65d25d",
+                "30bb610c-6321-40fe-a047-056e7d0dac96",
+                "49e6f432-d79c-49e8-94f7-89b94f3672fd",
+                "5be2b320-a5b7-4221-893c-dee506e4e365",
+                "3ee373aa-62fa-4fc6-b11f-9627d5b4a73d",
+                "2b248bdc-b79d-35eb-ece8-e81c1ba9fcef",
+                "553f93cd-a182-4243-81ac-ccee505a9121",
+                "55ac82fa-249e-43b5-a5a6-4967990764eb",
+                "4b00bbbb-d524-419c-bb3b-9f42aee17424",
+                "05e1f66f-fcad-45c0-8a22-f3b658d375e6",
+                "2b876f4d-2e6b-4ee7-9b09-8893808c1380",
+                "40906836-4323-4bbe-875e-3cbb134c40a2",
+                "2ad804c5-5c19-431f-8801-a9eaefbca7c7",
+                "6b9cc557-e24a-4744-a370-407e717f2195",
+                "3bb4a480-7767-4cca-b896-7d74592a253f",
+                "7d88764a-8601-4e36-8be4-157eb48b5302",
+                "8bbbc813-6d87-497c-9e7c-e401607b2347",
+                "05061717-583f-47fd-aa25-ff6c3781c935",
+                "abb85324-1bfa-4029-b245-782d337fcde5",
+                "87000000-3db9-bb44-5015-0b4a327a6597",
+                "c962d216-55b9-482b-84cf-40aa7c4b1eea",
+                "280c0dfd-72bb-4297-b976-e4fab7ee82b8",
+                "ba4eda44-cd55-4e15-855c-0debafb0490b",
+                "c80cee99-d17f-4b2d-a2a4-57652ffd2a4b",
+                "fe7c3fd3-c78f-45c3-92bb-6eb3b12533c6",
+                "495bcc0e-1ebf-4429-92ea-e2d7cfc8edc9",
+                "cd760caa-5d83-4df6-98bd-d26f10971d28",
+                "04fdcea1-3511-499c-966d-099d59aef45f",
+                "dddf988d-00af-480f-b419-76a357a72460",
+                "94c84fdb-1c18-42b5-9d5a-cafb6b020a0d",
+                "489c5fe7-b8b5-420b-9904-14a03489e259",
+                "ab0eb89b-6ab6-48a0-afab-8a9e437dc93a",
+                "c21fcfa2-1479-404c-9448-63bfc4a378b4",
+                "7d0085c8-7054-4bb7-b728-a06ec1c5fe73",
+                "d718fbf7-be13-4b88-99ef-bbba4e726f7e",
+                "b27c082b-9d45-490a-b8bb-8dcda46c73f3",
+                "3de96799-8d16-463a-9a6f-9d26d42f135f",
+                "c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b",
+                "d136f17e-df84-47f2-97a4-13aa24c0c647",
+                "d3d1be68-066c-4967-a74b-9edcf902dcfb",
+                "997ba2f0-dfc4-4a1a-bdf9-ee8f26e18ab8",
+                "de512141-36fb-4f5e-b6e5-c37af8b0390e",
+                "bee8d388-5b98-46d6-8ecd-d89bc02d1316",
+                "d2a1ed44-6cca-44d2-9b9c-1c9c1d597093",
+                "eab2d3ce-6d6a-4415-abc4-5f40a8317b1f",
+                "a79e783f-bd43-506c-ac03-563d8719bcf7",
+                "95fb5da0-6ced-4247-9d62-294f8fcb75df",
+                "e00456a5-3a89-400a-88b9-368533594cb4",
+                "7f905be6-3226-4a4c-9c54-ab1edce3c99c",
+                "1f510555-b518-4084-84e0-18c7bebc807c",
+                "db5b69c6-0430-4ae1-8d6e-a65c2220b50c",
+                "41cda9a5-16e2-4189-9d59-d0dd518085e1",
+                "1d041f16-ab49-4627-bfda-6b60ad2cab6a",
+                "8216e453-3db5-48ee-a3d6-5122f505c8a3",
+                "d8c3ecdb-62c9-445a-a516-08bdef4376de",
+                "6adc8d55-eb37-4537-a66d-743b3cd4511b",
+                "82bfb2e1-cad3-4e99-8995-5d140f295ef2",
+                "6fdd2aa7-2dbf-4dd9-ab61-2c0e8dd83cf7",
+                "55560ea0-ae82-48b2-b71e-a45356f56bb1",
+                "b6bdf576-4561-4587-8600-cd79c4523361",
+                "49471a10-fdbc-4ffb-b0b8-944f3df985d9",
+                "fe91c6f4-470e-4a1f-912f-44c26dca4b05",
+                "adb3c870-c01c-11eb-a2cc-4dbd838985a1",
+                "04ef48ab-fceb-42bc-a0c3-3252c2d43cff",
+                "51a9e40e-bf0c-4ca1-bf65-ae2a48c096b4",
+                "97da468e-05c9-427e-876d-3c90640b5245",
+                "eb4059f8-4c52-4352-ba9a-c610e47c6427",
+                "67de0563-0766-4c26-8957-2eee30c4e798",
+                "28b871ff-85bf-48a5-9bee-364f2b74d104",
+                "b4d412f5-c2e6-4ba1-b67e-accb9d0acc84",
+                "f622422e-0bd3-4784-a11c-782e63162638"
+            ],
+            "copilotBotsAllowedAppIds": [],
+            "federationBlockedAppIds": [
+                "99e46335-5250-4a68-8499-3e4f55e6f3f6",
+                "d832a33f-28c2-4969-8ad0-4fee681dc5b4",
+                "7c316234-ded0-4f95-8a83-8453d0876592"
+            ],
+            "powerAppsDiscovery": {
+                "gptTemplateAppIds": [
+                    "09e19d1e-ea5e-4adf-af47-fb8dd013361f",
+                    "9e2962b8-7eae-4124-86f3-1799090725e1"
+                ],
+                "customCopilotTemplateAppIds": [
+                    "f6405520-7907-4464-8f6e-9889e2fb7d8f",
+                    "958bb540-13ba-46ab-8d6a-8ab39e3e1fd8"
+                ],
+                "powerPlatformTemplateAppIds": [
+                    "ba1cabe6-dfd2-4334-96c0-0dcdf86e18e5",
+                    "f6405520-7907-4464-8f6e-9889e2fb7d8f",
+                    "0fa58992-1b03-41e1-8b1d-4aa556715d20"
+                ]
+            },
+            "projectAgentTemplateMetadata": {
+                "templateAppIds": [
+                    "5ebb964d-4dd7-4ea6-acd5-a5f310390c5b",
+                    "4ebb964e-4dd7-2ea6-3cd5-a5f310390c5b"
+                ]
+            },
+            "mcpConfig": {
+                "aa183fd9-7104-46c4-af9f-9ee9b81d717e": {
+                    "serverUrl": "https://mcp.atlassian.com/v1/sse",
+                    "authType": "oAuth2.0",
+                    "oAuthConfiguration": {
+                        "oAuthConfigurationId": "NzJmOTg4YmYtODZmMS00MWFmLTkxYWItMmQ3Y2QwMTFkYjQ3IyM2MTBkMTIxNC1jZTM5LTQ0Y2MtOTQwYy0yYTYxYjI1MDY1Nzk="
+                    },
+                    "tools": [
+                        {
+                            "name": "atlassianUserInfo",
+                            "description": "Get current user info from Atlassian",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {},
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getAccessibleAtlassianResources",
+                            "description": "Get cloudid to construct API calls to Atlassian REST APIs",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {},
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getConfluenceSpaces",
+                            "description": "Get spaces from Confluence. Spaces are containers for pages and content, organized by teams or topics. Use this to discover available spaces before accessing their content. You can also use this with a space key to get the numerical space ID needed for other operations.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "ids": {
+                                        "anyOf": [
+                                            {
+                                                "type": "string"
+                                            },
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "number"
+                                                }
+                                            }
+                                        ],
+                                        "description": "Filter by specific numerical space IDs"
+                                    },
+                                    "keys": {
+                                        "anyOf": [
+                                            {
+                                                "type": "string"
+                                            },
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        ],
+                                        "description": "Filter by space keys (unique identifiers)"
+                                    },
+                                    "type": {
+                                        "type": "string",
+                                        "enum": [
+                                            "global",
+                                            "collaboration",
+                                            "knowledge_base",
+                                            "personal"
+                                        ],
+                                        "description": "Filter by space type"
+                                    },
+                                    "status": {
+                                        "type": "string",
+                                        "enum": [
+                                            "current",
+                                            "archived"
+                                        ],
+                                        "description": "Filter by space status"
+                                    },
+                                    "labels": {
+                                        "anyOf": [
+                                            {
+                                                "type": "string"
+                                            },
+                                            {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        ],
+                                        "description": "Filter by space labels"
+                                    },
+                                    "favoritedBy": {
+                                        "type": "string",
+                                        "description": "Filter spaces favorited by a specific user account ID"
+                                    },
+                                    "notFavoritedBy": {
+                                        "type": "string",
+                                        "description": "Filter spaces not favorited by a specific user account ID"
+                                    },
+                                    "sort": {
+                                        "type": "string",
+                                        "enum": [
+                                            "id",
+                                            "-id",
+                                            "key",
+                                            "-key",
+                                            "name",
+                                            "-name"
+                                        ],
+                                        "description": "Sort order for results"
+                                    },
+                                    "descriptionFormat": {
+                                        "type": "string",
+                                        "enum": [
+                                            "plain",
+                                            "view"
+                                        ],
+                                        "description": "Format for space descriptions"
+                                    },
+                                    "includeIcon": {
+                                        "type": "boolean",
+                                        "description": "Include space icon information in response"
+                                    },
+                                    "cursor": {
+                                        "type": "string",
+                                        "description": "Pagination cursor for retrieving next page of results"
+                                    },
+                                    "limit": {
+                                        "type": "number",
+                                        "description": "Maximum number of spaces to return (default: 25, max: 250)"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getConfluencePage",
+                            "description": "Get a specific page or live doc data (including body content) from Confluence by its ID. Returns the page body content converted to Markdown format. You can extract the page ID from Confluence URLs - for example, from a URL like https://yoursite.atlassian.net/wiki/spaces/SPACE/pages/123456789/Page+Title, the page ID is \"123456789\". The URL can be used as the cloudId parameter, as the tool will handle converting the site name to a cloud ID.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "pageId": {
+                                        "type": "string",
+                                        "description": "The unique identifier of the page to retrieve. Can be extracted from Confluence URLs (e.g., the numeric ID in the URL path)"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "pageId"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getPagesInConfluenceSpace",
+                            "description": "Get all pages within a specific Confluence space. Useful for discovering content structure and finding pages by title or status. Returns page body content as Markdown.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "spaceId": {
+                                        "type": "string",
+                                        "description": "The unique numerical identifier of the space to search within"
+                                    },
+                                    "limit": {
+                                        "type": "number",
+                                        "description": "Maximum number of pages to return (default: 25, max: 250)"
+                                    },
+                                    "cursor": {
+                                        "type": "string",
+                                        "description": "Opaque cursor for pagination"
+                                    },
+                                    "status": {
+                                        "type": "string",
+                                        "enum": [
+                                            "current",
+                                            "archived",
+                                            "deleted",
+                                            "trashed"
+                                        ],
+                                        "description": "Filter pages by status"
+                                    },
+                                    "title": {
+                                        "type": "string",
+                                        "description": "Filter pages by title"
+                                    },
+                                    "sort": {
+                                        "type": "string",
+                                        "enum": [
+                                            "id",
+                                            "-id",
+                                            "created-date",
+                                            "-created-date",
+                                            "modified-date",
+                                            "-modified-date",
+                                            "title",
+                                            "-title"
+                                        ],
+                                        "description": "Sort pages by field(s)"
+                                    },
+                                    "depth": {
+                                        "type": "string",
+                                        "enum": [
+                                            "all",
+                                            "root"
+                                        ],
+                                        "description": "Filter pages by depth, default: all"
+                                    },
+                                    "subtype": {
+                                        "type": "string",
+                                        "enum": [
+                                            "live",
+                                            "page"
+                                        ],
+                                        "description": "Filter pages by subtype. Use \"live\" for live docs or \"page\" for regular pages"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "spaceId"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "createConfluencePage",
+                            "description": "Create a new page in Confluence. Can create regular pages or live docs based on the subtype parameter.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "spaceId": {
+                                        "type": "string",
+                                        "description": "The unique numerical identifier of the space where the page will be created"
+                                    },
+                                    "title": {
+                                        "type": "string",
+                                        "description": "The title of the new page"
+                                    },
+                                    "parentId": {
+                                        "type": "string",
+                                        "description": "The unique identifier of the parent page (if creating a child page)"
+                                    },
+                                    "body": {
+                                        "type": "string",
+                                        "description": "The content of the page. You **MUST** use markdown format."
+                                    },
+                                    "isPrivate": {
+                                        "type": "boolean",
+                                        "description": "The page will be private. Only the user who creates this page will have permission to view and edit one."
+                                    },
+                                    "subtype": {
+                                        "type": "string",
+                                        "enum": [
+                                            "live"
+                                        ],
+                                        "description": "The subtype of the page. Set to \"live\" to create a live doc, or omit to create a regular page."
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "spaceId",
+                                    "body"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "updateConfluencePage",
+                            "description": "Update an existing page or Live Doc in Confluence.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "pageId": {
+                                        "type": "string",
+                                        "description": "The unique identifier of the existing page to update"
+                                    },
+                                    "title": {
+                                        "type": "string",
+                                        "description": "The new title for the page (if not provided, retains the existing title)"
+                                    },
+                                    "status": {
+                                        "type": "string",
+                                        "enum": [
+                                            "current",
+                                            "draft"
+                                        ],
+                                        "default": "current",
+                                        "description": "The status of the page to update (defaults to current). If draft is specified, then the page's draft version will be updated."
+                                    },
+                                    "spaceId": {
+                                        "type": "string",
+                                        "description": "The unique numerical identifier of the space (if moving the page)"
+                                    },
+                                    "parentId": {
+                                        "type": "string",
+                                        "description": "The unique identifier of the parent page (if changing hierarchy)"
+                                    },
+                                    "body": {
+                                        "type": "string",
+                                        "description": "The content of the page. You **MUST** use markdown format."
+                                    },
+                                    "versionMessage": {
+                                        "type": "string",
+                                        "description": "Optional message describing the changes made in this version"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "pageId",
+                                    "body"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "createConfluenceFooterComment",
+                            "description": "Create a footer comment on a Confluence page or blog post. Footer comments are general comments about the page that appear at the bottom.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "pageId": {
+                                        "type": "string",
+                                        "description": "The id of the page to add the comment to."
+                                    },
+                                    "parentCommentId": {
+                                        "type": "string",
+                                        "description": "The id of the parent comment to reply to."
+                                    },
+                                    "attachmentId": {
+                                        "type": "string",
+                                        "description": "The id of the attachment to add to the comment."
+                                    },
+                                    "customContentId": {
+                                        "type": "string",
+                                        "description": "The id of the custom content to add to the comment."
+                                    },
+                                    "body": {
+                                        "type": "string",
+                                        "description": "The content of the comment in Markdown format."
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "body"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "createConfluenceInlineComment",
+                            "description": "Create an inline comment on a page or blog post. Inline comments are attached to specific text selections within the page content.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "pageId": {
+                                        "type": "string",
+                                        "description": "The id of the page to add the comment to."
+                                    },
+                                    "parentCommentId": {
+                                        "type": "string",
+                                        "description": "The id of the parent comment to reply to."
+                                    },
+                                    "body": {
+                                        "type": "string",
+                                        "description": "The content of the comment in Markdown format."
+                                    },
+                                    "inlineCommentProperties": {
+                                        "type": "object",
+                                        "properties": {
+                                            "textSelection": {
+                                                "type": "string",
+                                                "description": "The text to highlight"
+                                            },
+                                            "textSelectionMatchCount": {
+                                                "type": "number",
+                                                "description": "The number of matches for the selected text on the page (should be strictly greater than textSelectionMatchIndex)"
+                                            },
+                                            "textSelectionMatchIndex": {
+                                                "type": "number",
+                                                "description": "The match index to highlight. This is zero-based. E.g. if you have 3 occurrences of \"hello world\" on a page and you want to highlight the second occurrence, you should pass 1 for textSelectionMatchIndex and 3 for textSelectionMatchCount."
+                                            }
+                                        },
+                                        "required": [
+                                            "textSelection",
+                                            "textSelectionMatchCount",
+                                            "textSelectionMatchIndex"
+                                        ],
+                                        "additionalProperties": false,
+                                        "description": "Object describing the text to highlight on the page/blog post. Only applicable for top level inline comments (not replies) and required in that case."
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "body"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "searchConfluenceUsingCql",
+                            "description": "Search content in Confluence using CQL (Confluence Query Language). CQL is a powerful query language for finding pages, spaces, and content based on various criteria like title, content, labels, creation date, etc.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "cql": {
+                                        "type": "string",
+                                        "description": "The CQL query string (e.g., \"title ~ 'meeting' AND type = page\")"
+                                    },
+                                    "cqlcontext": {
+                                        "type": "string",
+                                        "description": "The context for the CQL query execution"
+                                    },
+                                    "cursor": {
+                                        "type": "string",
+                                        "description": "Pagination cursor for retrieving next page of results"
+                                    },
+                                    "expand": {
+                                        "type": "string",
+                                        "description": "Comma-separated list of properties to expand in the response"
+                                    },
+                                    "limit": {
+                                        "type": "number",
+                                        "description": "Maximum number of results to return (default: 25, max: 250)"
+                                    },
+                                    "prev": {
+                                        "type": "boolean",
+                                        "description": "Include previous page link in pagination"
+                                    },
+                                    "next": {
+                                        "type": "boolean",
+                                        "description": "Include next page link in pagination"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "cql"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getJiraIssue",
+                            "description": "Get the details of a Jira issue by issue id or key.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "issueIdOrKey": {
+                                        "type": "string",
+                                        "description": "Issue id or key can be used to uniquely identify an existing issue.\nIssue id is a numerical identifier. An example issue id is 10000.\nIssue key is formatted as a project key followed by a hyphen '-' character and then followed by a sequential number.\nAn example issue key is ISSUE-1."
+                                    },
+                                    "fields": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "fieldsByKeys": {
+                                        "type": "boolean"
+                                    },
+                                    "expand": {
+                                        "type": "string"
+                                    },
+                                    "properties": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "updateHistory": {
+                                        "type": "boolean"
+                                    },
+                                    "failFast": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "issueIdOrKey"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "editJiraIssue",
+                            "description": "Update the details of an existing Jira issue id or key.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "issueIdOrKey": {
+                                        "type": "string",
+                                        "description": "Issue id or key can be used to uniquely identify an existing issue.\nIssue id is a numerical identifier. An example issue id is 10000.\nIssue key is formatted as a project key followed by a hyphen '-' character and then followed by a sequential number.\nAn example issue key is ISSUE-1."
+                                    },
+                                    "fields": {
+                                        "type": "object",
+                                        "additionalProperties": {}
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "issueIdOrKey",
+                                    "fields"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "createJiraIssue",
+                            "description": "Create a new Jira issue in a given project with a given issue type.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "projectKey": {
+                                        "type": "string",
+                                        "description": "A project key in Jira is a unique identifier (a string of letters, numbers and sometimes underscores) of a project.\n      There is a tool \"getVisibleJiraProjects\" to look up which projects the user has create permission to create a new Jira issue."
+                                    },
+                                    "issueTypeName": {
+                                        "type": "string",
+                                        "description": "A Jira issue type categorizes and  distinguishes different kinds of work being tracked within a project.\n      It's a way to define what a specific piece of work represents.\n      For example, in a Jira Software project, there are \"Epic\", \"Story\", \"Task\", \"Bug\" or \"Subtask\" issue types by default.\n      Or in Jira Service Management, there are \"Change\", \"IT help\", \"Incident\", \"New feature\", \"Problem\", \"Service request\", \"Service request with approval\" or \"Support\" issue types by default.\n      User can remove those default ones and/or define their own issue types as well.\n      There is a tool \"getJiraProjectIssueTypesMetadata\" to get the available issue types in a given project."
+                                    },
+                                    "summary": {
+                                        "type": "string"
+                                    },
+                                    "description": {
+                                        "type": "string",
+                                        "description": "The content of the issue's description in Markdown format."
+                                    },
+                                    "parent": {
+                                        "type": "string",
+                                        "description": "The issue key or id of the parent issue for \"Subtask\" issue types."
+                                    },
+                                    "assignee_account_id": {
+                                        "type": "string",
+                                        "description": "During issue creation, we can set an assignee for the new issue.\n      The input must be an account id of a valid user in the given cloud id.\n      There is a tool \"atlassianUserInfo\" to get the account id of the current user.\n      There is a tool \"lookupJiraAccountId\" to get the account ids of the existing users in Jira based on the user's display name or email address."
+                                    },
+                                    "additional_fields": {
+                                        "type": "object",
+                                        "additionalProperties": {}
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "projectKey",
+                                    "issueTypeName",
+                                    "summary"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "getTransitionsForJiraIssue",
+                            "description": "Get available transitions for an existing Jira issue id or key.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "issueIdOrKey": {
+                                        "type": "string",
+                                        "description": "Issue id or key can be used to uniquely identify an existing issue.\nIssue id is a numerical identifier. An example issue id is 10000.\nIssue key is formatted as a project key followed by a hyphen '-' character and then followed by a sequential number.\nAn example issue key is ISSUE-1."
+                                    },
+                                    "expand": {
+                                        "type": "string"
+                                    },
+                                    "transitionId": {
+                                        "type": "string"
+                                    },
+                                    "skipRemoteOnlyCondition": {
+                                        "type": "boolean"
+                                    },
+                                    "includeUnavailableTransitions": {
+                                        "type": "boolean"
+                                    },
+                                    "sortByOpsBarAndStatus": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "issueIdOrKey"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "transitionJiraIssue",
+                            "description": "Transition an existing Jira issue (that has issue id or key) to a new status.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "issueIdOrKey": {
+                                        "type": "string",
+                                        "description": "Issue id or key can be used to uniquely identify an existing issue.\nIssue id is a numerical identifier. An example issue id is 10000.\nIssue key is formatted as a project key followed by a hyphen '-' character and then followed by a sequential number.\nAn example issue key is ISSUE-1."
+                                    },
+                                    "transition": {
+                                        "type": "object",
+                                        "properties": {
+                                            "id": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "id"
+                                        ],
+                                        "additionalProperties": false
+                                    },
+                                    "fields": {
+                                        "type": "object",
+                                        "additionalProperties": {}
+                                    },
+                                    "update": {
+                                        "type": "object",
+                                        "additionalProperties": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "additionalProperties": {
+                                                    "description": "This is the field value. The actual value will depends on the field type."
+                                                }
+                                            },
+                                            "description": "List of operations"
+                                        }
+                                    },
+                                    "historyMetadata": {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "description": {
+                                                "type": "string"
+                                            },
+                                            "descriptionKey": {
+                                                "type": "string"
+                                            },
+                                            "activityDescription": {
+                                                "type": "string"
+                                            },
+                                            "activityDescriptionKey": {
+                                                "type": "string"
+                                            },
+                                            "emailDescription": {
+                                                "type": "string"
+                                            },
+                                            "emailDescriptionKey": {
+                                                "type": "string"
+                                            },
+                                            "actor": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "string"
+                                                    },
+                                                    "displayName": {
+                                                        "type": "string"
+                                                    },
+                                                    "type": {
+                                                        "type": "string"
+                                                    },
+                                                    "avatarUrl": {
+                                                        "type": "string"
+                                                    },
+                                                    "url": {
+                                                        "type": "string"
+                                                    }
+                                                },
+                                                "additionalProperties": false
+                                            },
+                                            "generator": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "string"
+                                                    },
+                                                    "displayName": {
+                                                        "type": "string"
+                                                    },
+                                                    "type": {
+                                                        "type": "string"
+                                                    },
+                                                    "avatarUrl": {
+                                                        "type": "string"
+                                                    },
+                                                    "url": {
+                                                        "type": "string"
+                                                    }
+                                                },
+                                                "additionalProperties": false
+                                            },
+                                            "cause": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "string"
+                                                    },
+                                                    "displayName": {
+                                                        "type": "string"
+                                                    },
+                                                    "type": {
+                                                        "type": "string"
+                                                    },
+                                                    "avatarUrl": {
+                                                        "type": "string"
+                                                    },
+                                                    "url": {
+                                                        "type": "string"
+                                                    }
+                                                },
+                                                "additionalProperties": false
+                                            },
+                                            "extraData": {
+                                                "type": "object",
+                                                "additionalProperties": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "issueIdOrKey",
+                                    "transition"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "lookupJiraAccountId",
+                            "description": "Lookup account ids of existing users in Jira based on the user's display name or email address.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "searchString": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "searchString"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "searchJiraIssuesUsingJql",
+                            "description": "Search Jira issues using Jira Query Language (JQL).",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "jql": {
+                                        "type": "string",
+                                        "description": "A Jira Query Language (JQL) expression to search Jira issues"
+                                    },
+                                    "maxResults": {
+                                        "type": "number",
+                                        "maximum": 100,
+                                        "default": 50,
+                                        "description": "A maximum number of issue to search per page. Default is 50, max is 100"
+                                    },
+                                    "fields": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        },
+                                        "default": [
+                                            "summary",
+                                            "description",
+                                            "status",
+                                            "issuetype",
+                                            "priority",
+                                            "created"
+                                        ]
+                                    },
+                                    "nextPageToken": {
+                                        "type": "string",
+                                        "description": "This is used for pagination purpose to fetch more data if a JQL search has more issues in next pages"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "jql"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "addCommentToJiraIssue",
+                            "description": "Adds a comment to an existing Jira issue id or key.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "issueIdOrKey": {
+                                        "type": "string",
+                                        "description": "Issue id or key can be used to uniquely identify an existing issue.\nIssue id is a numerical identifier. An example issue id is 10000.\nIssue key is formatted as a project key followed by a hyphen '-' character and then followed by a sequential number.\nAn example issue key is ISSUE-1."
+                                    },
+                                    "commentBody": {
+                                        "type": "string",
+                                        "description": "The content of the comment in Markdown format."
+                                    },
+                                    "commentVisibility": {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string",
+                                                "enum": [
+                                                    "group",
+                                                    "role"
+                                                ],
+                                                "description": "Whether visibility of this comment is restricted to a group or role."
+                                            },
+                                            "value": {
+                                                "type": "string",
+                                                "description": "The name of the group or role that visibility of this comment is restricted to."
+                                            }
+                                        },
+                                        "required": [
+                                            "type",
+                                            "value"
+                                        ],
+                                        "additionalProperties": false
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "issueIdOrKey",
+                                    "commentBody"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": false
+                            }
+                        },
+                        {
+                            "name": "getJiraIssueRemoteIssueLinks",
+                            "description": "Get remote issue links (eg: Confluence links etc...) of an existing Jira issue id or key",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "issueIdOrKey": {
+                                        "type": "string",
+                                        "description": "Issue id or key can be used to uniquely identify an existing issue.\nIssue id is a numerical identifier. An example issue id is 10000.\nIssue key is formatted as a project key followed by a hyphen '-' character and then followed by a sequential number.\nAn example issue key is ISSUE-1."
+                                    },
+                                    "globalId": {
+                                        "type": "string",
+                                        "description": "An identifier for the remote item in the remote system.\n          For example, the global ID for a remote item in Confluence would consist of the app ID and page ID, like this: appId=456&pageId=123.\n          When a global ID is provided, this tool returns only the remote issue link of the given Jira issue that has the provided global ID.\n          When no global ID is provided, this tool returns all the remote issue links of the given Jira issue."
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "issueIdOrKey"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getVisibleJiraProjects",
+                            "description": "Get visible Jira projects for which the user has either view, browse, edit or create permission on that project.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "searchString": {
+                                        "type": "string",
+                                        "description": "Filter the results using a literal string. Projects with a matching key or name are returned (case insensitive)"
+                                    },
+                                    "action": {
+                                        "type": "string",
+                                        "enum": [
+                                            "view",
+                                            "browse",
+                                            "edit",
+                                            "create"
+                                        ],
+                                        "default": "create",
+                                        "description": "\n      Filter results by projects for which the user can:\n      * view the project\n      * browse the project\n      * edit the project\n      * create the project, meaning that they have the Create issues project permission for the project in which the issue is created.\n      "
+                                    },
+                                    "startAt": {
+                                        "type": "number",
+                                        "default": 0,
+                                        "description": "The index of the first item to return in a page of results (page offset)."
+                                    },
+                                    "maxResults": {
+                                        "type": "number",
+                                        "maximum": 50,
+                                        "default": 50,
+                                        "description": "The maximum number of items to return per page."
+                                    },
+                                    "expandIssueTypes": {
+                                        "type": "boolean",
+                                        "default": true,
+                                        "description": "To include additional information about the issue types associated with the project"
+                                    }
+                                },
+                                "required": [
+                                    "cloudId"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        },
+                        {
+                            "name": "getJiraProjectIssueTypesMetadata",
+                            "description": "Get a page of issue type metadata for a specified project. The issue type metadata will be used to create issue.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "cloudId": {
+                                        "type": "string",
+                                        "description": "Unique identifier for an Atlassian Cloud instance in the form of a UUID. Can also be a site URL or extracted from Atlassian URLs - for example, from https://yoursite.atlassian.net/wiki/.... If not working, use the 'getAccessibleAtlassianResources' tool to find accessible Cloud IDs."
+                                    },
+                                    "projectIdOrKey": {
+                                        "type": "string"
+                                    },
+                                    "startAt": {
+                                        "type": "number",
+                                        "default": 0,
+                                        "description": "The index of the first item to return in a page of results (page offset)."
+                                    },
+                                    "maxResults": {
+                                        "type": "number",
+                                        "maximum": 200,
+                                        "default": 50,
+                                        "description": "The maximum number of items to return per page."
+                                    }
+                                },
+                                "required": [
+                                    "cloudId",
+                                    "projectIdOrKey"
+                                ],
+                                "additionalProperties": false,
+                                "$schema": "http://json-schema.org/draft-07/schema#"
+                            },
+                            "annotations": {
+                                "readOnlyHint": true
+                            }
+                        }
+                    ]
+                }
+            },
+            "sharePointAppsDiscovery": {
+                "customCopilotTemplateAppIds": [
+                    "d6949b98-b305-43dc-a291-4c6cff67f88e"
+                ]
+            },
+            "agentCenterMetadata": {
+                "blockedSharedAppResource": [
+                    "SharedPointSharedApp"
+                ]
+            }
+        }
+    }
+}
