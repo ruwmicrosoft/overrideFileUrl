@@ -1,0 +1,199 @@
+{
+    "value": {
+        "templatedAppDefinitions": [
+            {
+                "version": "1.0.1",
+                "id": "ba1cabe6-dfd2-4334-96c0-0dcdf86e18e5",
+                "name": "Shared Power Apps",
+                "developerName": "Microsoft Corporation",
+                "shortDescription": "The Shared Power Apps app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Power Apps in \"Built by your colleagues\" and can't install them in Teams.",
+                "longDescription": "The Shared Power Apps app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Power Apps in \"Built by your colleagues\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerapps_largeimage.png?v=0.2",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "{baseUrl}/environments/{environment}/teamsApps/{templatedInstanceAppId}?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/teamsApps?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "embedIconsInDefinitionOptions": {
+                    "maxSizeInBytes": 200000,
+                    "allowedFormats": [
+                        "image/png"
+                    ]
+                },
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+                    "accentColor": "{$.accentColor}",
+                    "configurableTabs": [
+                        {
+                            "configurationUrl": "{$.configurableTabs[0].configurationUrl}",
+                            "canUpdateConfiguration": true,
+                            "scopes": [
+                                "team",
+                                "groupchat"
+                            ]
+                        }
+                    ],
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "developer": {
+                        "name": "Power Apps",
+                        "websiteUrl": "https://powerapps.microsoft.com/en-us/",
+                        "privacyUrl": "https://go.microsoft.com/fwlink/p/?LinkID=698505",
+                        "termsOfUseUrl": "https://go.microsoft.com/fwlink/p/?LinkID=698507"
+                    },
+                    "devicePermissions": [
+                        "geolocation",
+                        "media",
+                        "notifications",
+                        "midi",
+                        "openExternal"
+                    ],
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "id": "{$.id}",
+                    "manifestVersion": "1.7",
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "packageName": "{$.packageName}",
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "staticTabs": [
+                        {
+                            "entityId": "{$.staticTabs[0].entityId}",
+                            "name": "{$.staticTabs[0].name}",
+                            "contentUrl": "{$.staticTabs[0].contentUrl}",
+                            "websiteUrl": "{$.staticTabs[0].websiteUrl}",
+                            "scopes": [
+                                "personal"
+                            ]
+                        }
+                    ],
+                    "validDomains": [
+                        "*.powerapps.com",
+                        "*.*.powerapps.com",
+                        "*.dynamics.com",
+                        "*.*.dynamics.com"
+                    ],
+                    "version": "{$.version}",
+                    "webApplicationInfo": {
+                        "id": "3e62f81e-590b-425b-9531-cad6683656cf",
+                        "resource": "https://apps.powerapps.com"
+                    }
+                }
+            },
+            {
+                "version": "0.0.5",
+                "id": "0fa58992-1b03-41e1-8b1d-4aa556715d20",
+                "name": "Shared Power Apps (Int)",
+                "shortDescription": "The Shared Power Apps (Int) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Power Apps in \"Built by your colleagues\" and can't install them in Teams.",
+                "longDescription": "The Shared Power Apps (Int) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Power Apps in \"Built by your colleagues\" and can't install them in Teams.",
+                "developerName": "Microsoft Corporation",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerapps_largeimage.png?v=0.3",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/environments/{environment}/teamsApps/{templatedInstanceAppId}?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/teamsApps?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "embedIconsInDefinitionOptions": {
+                    "maxSizeInBytes": 200000,
+                    "allowedFormats": [
+                        "image/png"
+                    ]
+                },
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+                    "manifestVersion": "1.8",
+                    "version": "{$.version}",
+                    "id": "{$.id}",
+                    "packageName": "{$.packageName}",
+                    "devicePermissions": [
+                        "geolocation",
+                        "media",
+                        "notifications",
+                        "midi",
+                        "openExternal"
+                    ],
+                    "developer": {
+                        "name": "Power Apps",
+                        "websiteUrl": "https://powerapps.microsoft.com/en-us/",
+                        "privacyUrl": "https://go.microsoft.com/fwlink/p/?LinkID=698505",
+                        "termsOfUseUrl": "https://go.microsoft.com/fwlink/p/?LinkID=698507"
+                    },
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "accentColor": "{$.accentColor}",
+                    "staticTabs": [
+                        {
+                            "entityId": "{$.staticTabs[0].entityId}",
+                            "name": "{$.staticTabs[0].name}",
+                            "contentUrl": "{$.staticTabs[0].contentUrl}",
+                            "websiteUrl": "{$.staticTabs[0].websiteUrl}",
+                            "scopes": [
+                                "personal"
+                            ]
+                        }
+                    ],
+                    "configurableTabs": [
+                        {
+                            "configurationUrl": "{$.configurableTabs[0].configurationUrl}",
+                            "canUpdateConfiguration": true,
+                            "scopes": [
+                                "team",
+                                "groupchat"
+                            ],
+                            "context": [
+                                "{$.configurableTabs[0].context}"
+                            ]
+                        }
+                    ],
+                    "permissions": [
+                        "Identity",
+                        "MessageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.powerapps.com",
+                        "*.*.powerapps.com",
+                        "*.dynamics.com",
+                        "*.*.dynamics.com"
+                    ],
+                    "webApplicationInfo": {
+                        "id": "3e62f81e-590b-425b-9531-cad6683656cf",
+                        "resource": "https://apps.powerapps.com"
+                    }
+                }
+            }
+        ]
+    }
+}
