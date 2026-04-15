@@ -109,11 +109,11 @@
                 "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerapps_largeimage.png?v=0.2",
                 "getTemplatedAppInstanceUrl": {
                     "urlTemplate": "{baseUrl}/environments/{environment}/teamsApps/{templatedInstanceAppId}?api-version=1",
-                    "authModel": "powerapps"
+                    "authModel": "powerplatform"
                 },
                 "searchTemplatedAppsUrl": {
                     "urlTemplate": "{baseUrl}/powerapps/teamsApps?api-version=1",
-                    "authModel": "powerapps"
+                    "authModel": "powerplatform"
                 },
                 "webApplicationInfo": {
                     "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
