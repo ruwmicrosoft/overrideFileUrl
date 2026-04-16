@@ -10,7 +10,7 @@
                 "developerName": "Microsoft Corporation",
                 "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerapps_largeimage.png?v=0.3",
                 "getTemplatedAppInstanceUrl": {
-                    "urlTemplate": "{baseUrl}/environments/{environment}/teamsApps/{templatedInstanceAppId}?api-version=1",
+                    "urlTemplate": "{baseUrl}/powerapps/teamsApps/{templatedInstanceAppId}?api-version=1",
                     "authModel": "powerplatform"
                 },
                 "searchTemplatedAppsUrl": {
@@ -108,7 +108,7 @@
                 "longDescription": "The Shared Power Apps app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Power Apps in \"Built by your colleagues\" and can't install them in Teams.",
                 "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerapps_largeimage.png?v=0.2",
                 "getTemplatedAppInstanceUrl": {
-                    "urlTemplate": "{baseUrl}/environments/{environment}/teamsApps/{templatedInstanceAppId}?api-version=1",
+                    "urlTemplate": "{baseUrl}/powerapps/teamsApps/{templatedInstanceAppId}?api-version=1",
                     "authModel": "powerplatform"
                 },
                 "searchTemplatedAppsUrl": {
