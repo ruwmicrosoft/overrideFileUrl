@@ -2,7 +2,56 @@
     "value": {
         "templatedAppDefinitions": [
             {
-                "version": "1.0.1",
+                "version": "0.0.6",
+                "id": "1ef3c012-7ba0-4e29-b6e7-e724183ab93f",
+                "name": "MOS3 Shared Agent App",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": false,
+                "shortDescription": "This MOS Extensions app in your organization’s app store serves as the entry point for all agent shared apps created using Microsoft Copilot Studio (MCS)/TTK via MOS.",
+                "longDescription": "This MOS Extensions app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/copilotextensions_largeimage.png",
+                "appInstanceDefinition": {}
+            },
+            {
+                "version": "0.0.1",
+                "id": "0d81abcd-cf36-4922-a285-7787411b1ee9",
+                "name": "ChatGpt Agent Dev",
+                "developerName": "OpenAI, LLC",
+                "mpnId": "6692127",
+                "isBlockable": true,
+                "shortDescription": "Bring ChatGPT into Microsoft Teams to summarize, create, and get work done.",
+                "longDescription": "Bring ChatGPT into Microsoft Teams so your organization can get AI-powered help where work already happens.\n\nMention @ChatGPT in a channel or group chat, or message ChatGPT directly, to ask questions, summarize discussions, draft and refine content, and get help with supported files and apps that your organization has enabled.\n\nWhat you can do\n* Catch up quickly: Summarize conversations, identify decisions, and turn discussions into owners and next steps.\n* Create and refine work: Draft updates, replies, briefs, and other content without leaving Teams.\nWork with your organization's tools: Use supported files and enabled apps when they are available to ChatGPT.\n* Collaborate in context: Ask in natural language in channels and group chats, or use a direct message for individual work.\n\nRequirements and availability\n\nAdministrator setup is required before members can use the app. Availability and capabilities depend on your organization's ChatGPT plan, Microsoft Teams configuration, permissions, region, and enabled apps. Some requests may ask you to connect your ChatGPT account or another app.\n\nHelp: Visit https://help.openai.com for help articles. If setup is incomplete, contact your organization's Microsoft Teams or ChatGPT administrator.\n\nContact support: Open the chat bubble at https://help.openai.com. Support instructions: https://help.openai.com/en/articles/6614161-how-can-i-contact-support.\n\nAI-generated content\n\nChatGPT uses artificial intelligence to generate responses and may make mistakes. Review important information before using or sharing it.\n\nTo report inappropriate, harmful, or offensive AI-generated content, visit https://openai.com/form/report-content/.\n",
+                "largeImageURL": "https://res.cdn.office.net/teamsappdata/app-assets/ring_chatgpt_private_preview/a37eb519-d163-49a2-8df3-7b27851f3e5f/a37eb519-d163-49a2-8df3-7b27851f3e5f_largeImage.png?v=1.0.10",
+                "developerUrl": "https://help.openai.com/",
+                "privacyUrl": "https://openai.com/policies/row-privacy-policy/",
+                "termsOfUseUrl": "https://openai.com/policies/row-terms-of-use/",
+                "webApplicationInfo": {
+                    "id": "8cc92b87-d909-41e3-82f3-2248f0369c14",
+                    "resource": "https://openai.com"
+                },
+                "appInstanceDefinition": {}
+            },
+            {
+                "version": "0.0.1",
+                "id": "7530d00e-3a6c-48ae-9148-b00678b08c49",
+                "name": "ChatGpt Agent",
+                "developerName": "OpenAI, LLC",
+                "mpnId": "6692127",
+                "isBlockable": true,
+                "shortDescription": "Bring ChatGPT into Microsoft Teams to summarize, create, and get work done.",
+                "longDescription": "Bring ChatGPT into Microsoft Teams so your organization can get AI-powered help where work already happens.\n\nMention @ChatGPT in a channel or group chat, or message ChatGPT directly, to ask questions, summarize discussions, draft and refine content, and get help with supported files and apps that your organization has enabled.\n\nWhat you can do\n* Catch up quickly: Summarize conversations, identify decisions, and turn discussions into owners and next steps.\n* Create and refine work: Draft updates, replies, briefs, and other content without leaving Teams.\nWork with your organization's tools: Use supported files and enabled apps when they are available to ChatGPT.\n* Collaborate in context: Ask in natural language in channels and group chats, or use a direct message for individual work.\n\nRequirements and availability\n\nAdministrator setup is required before members can use the app. Availability and capabilities depend on your organization's ChatGPT plan, Microsoft Teams configuration, permissions, region, and enabled apps. Some requests may ask you to connect your ChatGPT account or another app.\n\nHelp: Visit https://help.openai.com for help articles. If setup is incomplete, contact your organization's Microsoft Teams or ChatGPT administrator.\n\nContact support: Open the chat bubble at https://help.openai.com. Support instructions: https://help.openai.com/en/articles/6614161-how-can-i-contact-support.\n\nAI-generated content\n\nChatGPT uses artificial intelligence to generate responses and may make mistakes. Review important information before using or sharing it.\n\nTo report inappropriate, harmful, or offensive AI-generated content, visit https://openai.com/form/report-content/.\n",
+                "largeImageURL": "https://res.cdn.office.net/teamsappdata/app-assets/ring_chatgpt_private_preview/a37eb519-d163-49a2-8df3-7b27851f3e5f/a37eb519-d163-49a2-8df3-7b27851f3e5f_largeImage.png?v=1.0.10",
+                "developerUrl": "https://help.openai.com/",
+                "privacyUrl": "https://openai.com/policies/row-privacy-policy/",
+                "termsOfUseUrl": "https://openai.com/policies/row-terms-of-use/",
+                "webApplicationInfo": {
+                    "id": "85f5cca8-d576-4397-863a-e543918dbb15",
+                    "resource": "https://openai.com"
+                },
+                "appInstanceDefinition": {}
+            },
+            {
+                "version": "1.0.2",
                 "id": "ba1cabe6-dfd2-4334-96c0-0dcdf86e18e5",
                 "name": "Shared Power Apps",
                 "developerName": "Microsoft Corporation",
@@ -95,6 +144,800 @@
                         "resource": "https://apps.powerapps.com"
                     }
                 }
+            },
+            {
+                "version": "0.0.7",
+                "id": "958bb540-13ba-46ab-8d6a-8ab39e3e1fd8",
+                "name": "Shared Copilots (PPE)",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": false,
+                "shortDescription": "The Shared Copilots (PPE) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "longDescription": "The Shared Copilots (PPE) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerva_largeimage.png?v=0.3",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://tip1.api.powerapps.com/environments/{environment}/botApps/{templatedInstanceAppId}?api-version=2020-02-01",
+                    "authModel": "powerapps"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/curatedBots?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "getAppPackageUrl": {
+                    "urlTemplate": "https://tip1.api.powerapps.com/environments/{environment}/botApps/{templatedInstanceAppId}/package?api-version=2023-06-01",
+                    "fallbackToTemplateInstanceEndPoint": true,
+                    "authModel": "powerapps"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "authorization": {
+                        "permissions": {
+                            "resourceSpecific": "{$.authorization.permissions.resourceSpecific}"
+                        }
+                    },
+                    "manifestVersion": "devPreview",
+                    "version": "{$.version}",
+                    "id": "{$.id}",
+                    "packageName": "com.example.myapp",
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "accentColor": "{$.accentColor}",
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "{$.bots[0].scopes}"
+                            ],
+                            "supportsFiles": true,
+                            "registrationInfo": {
+                                "source": "microsoftCopilotStudio",
+                                "environment": "{$.bots[0].registrationInfo.environment}"
+                            }
+                        }
+                    ],
+                    "permissions": [
+                        "Identity",
+                        "MessageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "login.microsoftonline.com",
+                        "*.*.customercareintelligence.net",
+                        "*.*.powerva.microsoft.com",
+                        "*.consent.azure-apim.net",
+                        "copilotstudio.test.microsoft.com",
+                        "copilotstudio.preprod.microsoft.com",
+                        "copilotstudio.dev.microsoft.com",
+                        "copilotstudio.microsoft.com",
+                        "copilotstudio.preview.microsoft.com",
+                        "*.azure-apim.net"
+                    ],
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    },
+                    "copilotAgents": {
+                        "customEngineAgents": [
+                            {
+                                "id": "{$.copilotAgents.customEngineAgents[0].id}",
+                                "type": "{$.copilotAgents.customEngineAgents[0].type}",
+                                "disclaimer": {
+                                    "text": "{$.copilotAgents.customEngineAgents[0].disclaimer.text}"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "version": "1.0.5",
+                "id": "f6405520-7907-4464-8f6e-9889e2fb7d8f",
+                "name": "Shared Copilots",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": false,
+                "shortDescription": "The Shared Copilots app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any copilots from Microsoft Copilot Studio in \"Copilot Extensions\" or \"Built With Power Platform\" and can't install them in Teams.",
+                "longDescription": "The Shared Copilots app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any copilots from Microsoft Copilot Studio in \"Copilot Extensions\" or \"Built With Power Platform\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/powerva_largeimage.png?v=0.3",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://api.powerapps.com/environments/{environment}/botApps/{templatedInstanceAppId}?api-version=2020-06-01",
+                    "authModel": "powerapps"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/curatedBots?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "getAppPackageUrl": {
+                    "urlTemplate": "https://api.powerapps.com/environments/{environment}/botApps/{templatedInstanceAppId}/package?api-version=2023-06-01",
+                    "fallbackToTemplateInstanceEndPoint": true,
+                    "authModel": "powerapps"
+                },
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "accentColor": "{$.accentColor}",
+                    "authorization": {
+                        "permissions": {
+                            "resourceSpecific": "{$.authorization.permissions.resourceSpecific}"
+                        }
+                    },
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "{$.bots[0].scopes}"
+                            ],
+                            "supportsFiles": true,
+                            "registrationInfo": {
+                                "source": "microsoftCopilotStudio",
+                                "environment": "{$.bots[0].registrationInfo.environment}"
+                            }
+                        }
+                    ],
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "id": "{$.id}",
+                    "manifestVersion": "devPreview",
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "packageName": "com.example.myapp",
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "*.*.botframework.com",
+                        "copilotstudio.microsoft.com",
+                        "copilotstudio.preview.microsoft.com"
+                    ],
+                    "version": "{$.version}",
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    },
+                    "copilotAgents": {
+                        "customEngineAgents": [
+                            {
+                                "id": "{$.copilotAgents.customEngineAgents[0].id}",
+                                "type": "{$.copilotAgents.customEngineAgents[0].type}",
+                                "disclaimer": {
+                                    "text": "{$.copilotAgents.customEngineAgents[0].disclaimer.text}"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "version": "0.0.6",
+                "id": "09e19d1e-ea5e-4adf-af47-fb8dd013361f",
+                "name": "Shared Copilot Extensions (PPE)",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": false,
+                "shortDescription": "The Copilots Extensions (PPE) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft copilot studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "longDescription": "The Copilots Extensions (PPE) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/copilotextensions_largeimage.png",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://tip1.api.powerapps.com/environments/{environment}/gptApps/{templatedInstanceAppId}?api-version=2020-02-01",
+                    "authModel": "powerapps"
+                },
+                "getAppPackageUrl": {
+                    "urlTemplate": "https://tip1.api.powerapps.com/environments/{environment}/gptApps/{templatedInstanceAppId}/package?api-version=2023-06-01",
+                    "authModel": "powerapps"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/curatedGpts?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "requiredServicePlanIdSets": [
+                    {
+                        "requiredServicePlanIds": [
+                            "3f30311c-6b1e-48a4-ab79-725b469da960"
+                        ]
+                    }
+                ],
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "accentColor": "{$.accentColor}",
+                    "authorization": {
+                        "permissions": {
+                            "resourceSpecific": "{$.authorization.permissions.resourceSpecific}"
+                        }
+                    },
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "{$.bots[0].scopes}"
+                            ],
+                            "supportsFiles": true,
+                            "registrationInfo": {
+                                "source": "microsoftCopilotStudio",
+                                "environment": "{$.bots[0].registrationInfo.environment}"
+                            }
+                        }
+                    ],
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "id": "{$.id}",
+                    "manifestVersion": "devPreview",
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "*.*.botframework.com",
+                        "copilotstudio.test.microsoft.com",
+                        "copilotstudio.preprod.microsoft.com",
+                        "copilotstudio.dev.microsoft.com",
+                        "copilotstudio.microsoft.com",
+                        "copilotstudio.preview.microsoft.com"
+                    ],
+                    "version": "{$.version}",
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    },
+                    "copilotAgents": {
+                        "customEngineAgents": [
+                            {
+                                "id": "{$.copilotAgents.customEngineAgents[0].id}",
+                                "type": "{$.copilotAgents.customEngineAgents[0].type}",
+                                "disclaimer": {
+                                    "text": "{$.copilotAgents.customEngineAgents[0].disclaimer.text}"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "version": "0.0.6",
+                "id": "4c7e972b-25aa-46e9-ac86-dac764690129",
+                "name": "Shared Copilot Extensions (Int)",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": false,
+                "shortDescription": "The Copilots Extensions (Int) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft copilot studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "longDescription": "The Copilots Extensions (Int) app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any apps from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/copilotextensions_largeimage.png",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://tip2.api.powerapps.com/environments/{environment}/gptApps/{templatedInstanceAppId}?api-version=2020-02-01",
+                    "authModel": "powerapps"
+                },
+                "getAppPackageUrl": {
+                    "urlTemplate": "https://tip2.api.powerapps.com/environments/{environment}/gptApps/{templatedInstanceAppId}/package?api-version=2023-06-01",
+                    "authModel": "powerapps"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/curatedGpts?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "requiredServicePlanIdSets": [
+                    {
+                        "requiredServicePlanIds": [
+                            "3f30311c-6b1e-48a4-ab79-725b469da960"
+                        ]
+                    }
+                ],
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "accentColor": "{$.accentColor}",
+                    "authorization": {
+                        "permissions": {
+                            "resourceSpecific": "{$.authorization.permissions.resourceSpecific}"
+                        }
+                    },
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "{$.bots[0].scopes}"
+                            ],
+                            "supportsFiles": true,
+                            "registrationInfo": {
+                                "source": "microsoftCopilotStudio",
+                                "environment": "{$.bots[0].registrationInfo.environment}"
+                            }
+                        }
+                    ],
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "id": "{$.id}",
+                    "manifestVersion": "devPreview",
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "*.*.botframework.com",
+                        "copilotstudio.test.microsoft.com",
+                        "copilotstudio.preprod.microsoft.com",
+                        "copilotstudio.dev.microsoft.com",
+                        "copilotstudio.microsoft.com",
+                        "copilotstudio.preview.microsoft.com"
+                    ],
+                    "version": "{$.version}",
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    },
+                    "copilotAgents": {
+                        "customEngineAgents": [
+                            {
+                                "id": "{$.copilotAgents.customEngineAgents[0].id}",
+                                "type": "{$.copilotAgents.customEngineAgents[0].type}",
+                                "disclaimer": {
+                                    "text": "{$.copilotAgents.customEngineAgents[0].disclaimer.text}"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "version": "1.0.1",
+                "id": "9e2962b8-7eae-4124-86f3-1799090725e1",
+                "name": "Shared Copilot Extensions",
+                "isBlockable": false,
+                "developerName": "Microsoft Corporation",
+                "shortDescription": "The Copilots Extensions app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any copilot extensions from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "longDescription": "The Copilots Extensions app in your organization's app store represents all apps created on that particular platform. If you block this app at the org level or for specific users, those users can't see any copilot extensions from Microsoft Copilot Studio in \"Copilot Extensions\" and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/copilotextensions_largeimage.png",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://api.powerapps.com/environments/{environment}/gptApps/{templatedInstanceAppId}?api-version=2020-02-01",
+                    "authModel": "powerapps"
+                },
+                "getAppPackageUrl": {
+                    "urlTemplate": "https://api.powerapps.com/environments/{environment}/gptApps/{templatedInstanceAppId}/package?api-version=2023-06-01",
+                    "authModel": "powerapps"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "{baseUrl}/powerapps/curatedGpts?api-version=1",
+                    "authModel": "powerplatform"
+                },
+                "webApplicationInfo": {
+                    "id": "475226c6-020e-4fb2-8a90-7a972cbfc1d4",
+                    "resource": "https://service.powerapps.com/"
+                },
+                "requiredServicePlanIdSets": [
+                    {
+                        "requiredServicePlanIds": [
+                            "3f30311c-6b1e-48a4-ab79-725b469da960"
+                        ]
+                    }
+                ],
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "accentColor": "{$.accentColor}",
+                    "authorization": {
+                        "permissions": {
+                            "resourceSpecific": "{$.authorization.permissions.resourceSpecific}"
+                        }
+                    },
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "{$.bots[0].scopes}"
+                            ],
+                            "supportsFiles": true,
+                            "registrationInfo": {
+                                "source": "microsoftCopilotStudio",
+                                "environment": "{$.bots[0].registrationInfo.environment}"
+                            }
+                        }
+                    ],
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "id": "{$.id}",
+                    "manifestVersion": "devPreview",
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "*.*.botframework.com",
+                        "copilotstudio.microsoft.com",
+                        "copilotstudio.preview.microsoft.com"
+                    ],
+                    "version": "{$.version}",
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    },
+                    "copilotAgents": {
+                        "customEngineAgents": [
+                            {
+                                "id": "{$.copilotAgents.customEngineAgents[0].id}",
+                                "type": "{$.copilotAgents.customEngineAgents[0].type}",
+                                "disclaimer": {
+                                    "text": "{$.copilotAgents.customEngineAgents[0].disclaimer.text}"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "version": "1.0.0",
+                "id": "5ebb964d-4dd7-4ea6-acd5-a5f310390c5b",
+                "name": "Channel Agent Int",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": true,
+                "isTenantConfigurable": true,
+                "shortDescription": "Work smarter, get insights faster, and make a bigger impact with AI.",
+                "longDescription": "Work smarter, get insights faster, and make a bigger impact with AI.",
+                "largeImageURL": "https://res.cdn.office.net/teamsappdata/evergreen-assets/apps/project_agent_statusagentlogo.png?v=2.0.0",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://df.tca.teams.core.microsoft/api/v1/agents/{templatedInstanceAppId}/manifests",
+                    "authModel": "tca"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "",
+                    "authModel": "tca"
+                },
+                "notificationUrl": {
+                    "urlTemplate": "https://df.tca.teams.core.microsoft/",
+                    "authModel": "tca"
+                },
+                "webApplicationInfo": {
+                    "id": "<TBA>",
+                    "resource": "<TBA>"
+                },
+                "requiredServicePlanIdSets": [
+                    {
+                        "requiredServicePlanIds": [
+                            "3f30311c-6b1e-48a4-ab79-725b469da960"
+                        ]
+                    }
+                ],
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "manifestVersion": "devPreview",
+                    "version": "{$.version}",
+                    "id": "{$.id}",
+                    "packageName": "com.package.name",
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "accentColor": "{$.accentColor}",
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "team",
+                                "groupChat"
+                            ],
+                            "supportsFiles": false,
+                            "supportsCalling": false,
+                            "supportsVideo": false,
+                            "registrationInfo": {
+                                "source": "standard",
+                                "environment": "00000000-0000-0000-0000-000000000000"
+                            }
+                        }
+                    ],
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "supportedChannelTypes": [
+                        "sharedChannels",
+                        "privateChannels"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "login.microsoftonline.com",
+                        "*.*.botframework.com"
+                    ],
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    }
+                }
+            },
+            {
+                "version": "1.0.0",
+                "id": "9009da34-6d9c-4f1a-9c73-1e8372878761",
+                "name": "Channel Agent DF",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": true,
+                "isTenantConfigurable": true,
+                "shortDescription": "Work smarter, get insights faster, and make a bigger impact with AI.",
+                "longDescription": "Work smarter, get insights faster, and make a bigger impact with AI.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/project_agent_statusagentlogo.png?v=2.0.0",
+                "privacyUrl": "https://privacy.microsoft.com/privacystatement",
+                "termsOfUseUrl": "https://support.microsoft.com/en-us/office/supplementary-terms-of-service-for-teams-apps-powered-by-microsoft-365-services-and-applications-bc6027fe-68c3-4758-a70d-cfe97c43b4e2",
+                "developerUrl": "https://www.microsoft.com",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "",
+                    "authModel": "tca"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "",
+                    "authModel": "tca"
+                },
+                "webApplicationInfo": {
+                    "id": "<TBA>",
+                    "resource": "<TBA>"
+                },
+                "agenticUserTemplate": {
+                    "agentIdentityBlueprintId": "36a2c39d-1fcf-433e-8015-8aa27d921c0c"
+                },
+                "bots": [
+                    {
+                        "id": "3914e2ec-62b6-4dec-96c1-5710a9c532ef"
+                    }
+                ],
+                "appInstanceDefinition": {}
+            },
+            {
+                "version": "1.0.0",
+                "id": "d6949b98-b305-43dc-a291-4c6cff67f88e",
+                "name": "SharePoint Agent (Int)",
+                "developerName": "Microsoft Corporation",
+                "isBlockable": false,
+                "shortDescription": "This is an agent created based on the sources selected by its owner.",
+                "longDescription": "Agents are created and customized based on the sources selected, including SharePoint sites, documents, and other files. Users can start conversations with these agents directly from a SharePoint site or by adding an agent to a Teams group chat and get the support they need to optimize their productivity with AI. ",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/sharepoint_agent.png?v=0.3",
+                "getTemplatedAppInstanceUrl": {
+                    "urlTemplate": "https://substrate-sdf.office.com/TaigerService/ODSPCustomCopilot/apps/{templatedInstanceAppId}/manifest",
+                    "authModel": "substrateTaiger"
+                },
+                "searchTemplatedAppsUrl": {
+                    "urlTemplate": "https://substrate-sdf.office.com/TaigerService/ODSPCustomCopilot/apps/manifests",
+                    "authModel": "substrateTaiger"
+                },
+                "webApplicationInfo": {
+                    "id": "d6949b98-b305-43dc-a291-4c6cff67f88e",
+                    "resource": "api://botid-d6949b98-b305-43dc-a291-4c6cff67f88e"
+                },
+                "appInstanceDefinition": {
+                    "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+                    "manifestVersion": "devPreview",
+                    "version": "{$.version}",
+                    "id": "{$.id}",
+                    "packageName": "com.package.name",
+                    "developer": {
+                        "name": "{$.developer.name}",
+                        "websiteUrl": "{$.developer.websiteUrl}",
+                        "privacyUrl": "{$.developer.privacyUrl}",
+                        "termsOfUseUrl": "{$.developer.termsOfUseUrl}",
+                        "mpnId": "{$.developer.mpnId}"
+                    },
+                    "name": {
+                        "short": "{$.name.short}",
+                        "full": "{$.name.full}"
+                    },
+                    "description": {
+                        "short": "{$.description.short}",
+                        "full": "{$.description.full}"
+                    },
+                    "icons": {
+                        "outline": "{$.icons.outline}",
+                        "color": "{$.icons.color}"
+                    },
+                    "accentColor": "{$.accentColor}",
+                    "bots": [
+                        {
+                            "botId": "{$.bots[0].botId}",
+                            "needsChannelSelector": false,
+                            "isNotificationOnly": false,
+                            "scopes": [
+                                "{$.bots[0].scopes}"
+                            ],
+                            "supportsFiles": false,
+                            "supportsCalling": false,
+                            "supportsVideo": false,
+                            "registrationInfo": {
+                                "source": "onedriveSharepoint",
+                                "environment": "{$.bots[0].registrationInfo.environment}"
+                            },
+                            "commandLists": [
+                                "{$.bots[0].commandLists}"
+                            ]
+                        }
+                    ],
+                    "permissions": [
+                        "identity",
+                        "messageTeamMembers"
+                    ],
+                    "validDomains": [
+                        "*.botframework.com",
+                        "*.*.botframework.com"
+                    ],
+                    "webApplicationInfo": {
+                        "id": "{$.webApplicationInfo.id}",
+                        "resource": "{$.webApplicationInfo.resource}"
+                    },
+                    "authorization": {
+                        "permissions": {
+                            "resourceSpecific": "{$.authorization.permissions.resourceSpecific}"
+                        }
+                    }
+                }
+            },
+            {
+                "version": "0.0.1",
+                "id": "f5270495-97df-4171-a23d-00dcdd5313bf",
+                "name": "Platform Test 3P Custom Agent",
+                "developerName": "Microsoft Corporation",
+                "mpnId": "2539179",
+                "isBlockable": true,
+                "shortDescription": "The Platform Test 3P Custom Agent app in your organization's app store serves as the entry point for third-party custom agent apps used for platform testing.",
+                "longDescription": "The Platform Test 3P Custom Agent app in your organization's app store represents third-party custom agent apps used for platform testing. If you block this app at the org level or for specific users, those users can't see any of these agents and can't install them in Teams.",
+                "largeImageURL": "https://statics.teams.cdn.office.net/evergreen-assets/apps/copilotextensions_largeimage.png",
+                "webApplicationInfo": {
+                    "id": "e8873ba4-5826-4d6a-b809-d6056c558fcf",
+                    "resource": "api://botid-e8873ba4-5826-4d6a-b809-d6056c558fcf"
+                },
+                "appInstanceDefinition": {}
+            },
+            {
+                "version": "0.0.1",
+                "id": "08be49c1-9f62-4944-9464-e1add6655f06",
+                "name": "Shared ChatGpt Agent",
+                "developerName": "OpenAI, LLC",
+                "mpnId": "6692127",
+                "isBlockable": true,
+                "shortDescription": "Bring ChatGPT into Microsoft Teams to summarize, create, and get work done.",
+                "longDescription": "Bring ChatGPT into Microsoft Teams so your organization can get AI-powered help where work already happens.\n\nMention @ChatGPT in a channel or group chat, or message ChatGPT directly, to ask questions, summarize discussions, draft and refine content, and get help with supported files and apps that your organization has enabled.\n\nWhat you can do\n* Catch up quickly: Summarize conversations, identify decisions, and turn discussions into owners and next steps.\n* Create and refine work: Draft updates, replies, briefs, and other content without leaving Teams.\nWork with your organization's tools: Use supported files and enabled apps when they are available to ChatGPT.\n* Collaborate in context: Ask in natural language in channels and group chats, or use a direct message for individual work.\n\nRequirements and availability\n\nAdministrator setup is required before members can use the app. Availability and capabilities depend on your organization's ChatGPT plan, Microsoft Teams configuration, permissions, region, and enabled apps. Some requests may ask you to connect your ChatGPT account or another app.\n\nHelp: Visit https://help.openai.com for help articles. If setup is incomplete, contact your organization's Microsoft Teams or ChatGPT administrator.\n\nContact support: Open the chat bubble at https://help.openai.com. Support instructions: https://help.openai.com/en/articles/6614161-how-can-i-contact-support.\n\nAI-generated content\n\nChatGPT uses artificial intelligence to generate responses and may make mistakes. Review important information before using or sharing it.\n\nTo report inappropriate, harmful, or offensive AI-generated content, visit https://openai.com/form/report-content/.\n",
+                "largeImageURL": "https://res.cdn.office.net/teamsappdata/app-assets/ring_chatgpt_private_preview/a37eb519-d163-49a2-8df3-7b27851f3e5f/a37eb519-d163-49a2-8df3-7b27851f3e5f_largeImage.png?v=1.0.10",
+                "developerUrl": "https://help.openai.com/",
+                "privacyUrl": "https://openai.com/policies/row-privacy-policy/",
+                "termsOfUseUrl": "https://openai.com/policies/row-terms-of-use/",
+                "webApplicationInfo": {
+                    "id": "930e2428-ce68-47a4-b66e-4d83231c6780",
+                    "resource": "https://openai.com"
+                },
+                "appInstanceDefinition": {}
+            },
+            {
+                "version": "0.0.1",
+                "id": "6b49242e-a1d4-4708-bbae-820d981f78e1",
+                "name": "Shared Chatgpt Staging Agent",
+                "developerName": "OpenAI, LLC",
+                "mpnId": "6692127",
+                "isBlockable": true,
+                "shortDescription": "Bring ChatGPT into Microsoft Teams to summarize, create, and get work done.",
+                "longDescription": "Bring ChatGPT into Microsoft Teams so your organization can get AI-powered help where work already happens.\n\nMention @ChatGPT in a channel or group chat, or message ChatGPT directly, to ask questions, summarize discussions, draft and refine content, and get help with supported files and apps that your organization has enabled.\n\nWhat you can do\n* Catch up quickly: Summarize conversations, identify decisions, and turn discussions into owners and next steps.\n* Create and refine work: Draft updates, replies, briefs, and other content without leaving Teams.\nWork with your organization's tools: Use supported files and enabled apps when they are available to ChatGPT.\n* Collaborate in context: Ask in natural language in channels and group chats, or use a direct message for individual work.\n\nRequirements and availability\n\nAdministrator setup is required before members can use the app. Availability and capabilities depend on your organization's ChatGPT plan, Microsoft Teams configuration, permissions, region, and enabled apps. Some requests may ask you to connect your ChatGPT account or another app.\n\nHelp: Visit https://help.openai.com for help articles. If setup is incomplete, contact your organization's Microsoft Teams or ChatGPT administrator.\n\nContact support: Open the chat bubble at https://help.openai.com. Support instructions: https://help.openai.com/en/articles/6614161-how-can-i-contact-support.\n\nAI-generated content\n\nChatGPT uses artificial intelligence to generate responses and may make mistakes. Review important information before using or sharing it.\n\nTo report inappropriate, harmful, or offensive AI-generated content, visit https://openai.com/form/report-content/.\n",
+                "largeImageURL": "https://res.cdn.office.net/teamsappdata/app-assets/ring_chatgpt_private_preview/a37eb519-d163-49a2-8df3-7b27851f3e5f/a37eb519-d163-49a2-8df3-7b27851f3e5f_largeImage.png?v=1.0.10",
+                "developerUrl": "https://help.openai.com/",
+                "privacyUrl": "https://openai.com/policies/row-privacy-policy/",
+                "termsOfUseUrl": "https://openai.com/policies/row-terms-of-use/",
+                "webApplicationInfo": {
+                    "id": "0f466b08-aa11-47b0-b2bd-d850fa72d2ce",
+                    "resource": "https://openai.com"
+                },
+                "appInstanceDefinition": {}
             }
         ]
     }
