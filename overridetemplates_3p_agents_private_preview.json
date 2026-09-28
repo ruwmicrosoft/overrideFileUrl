@@ -51,6 +51,25 @@
         "appInstanceDefinition": {}
       },
       {
+        "version": "0.0.1",
+        "id": "4c1ea5b3-5586-4abd-b531-2163a8cf385b",
+        "name": "openAI Dev",
+        "developerName": "OpenAI, LLC",
+        "mpnId": "6692127",
+        "isBlockable": true,
+        "shortDescription": "Bring ChatGPT into Microsoft Teams to summarize, create, and get work done.",
+        "longDescription": "Bring ChatGPT into Microsoft Teams so your organization can get AI-powered help where work already happens.\n\nMention @ChatGPT in a channel or group chat, or message ChatGPT directly, to ask questions, summarize discussions, draft and refine content, and get help with supported files and apps that your organization has enabled.\n\nWhat you can do\n* Catch up quickly: Summarize conversations, identify decisions, and turn discussions into owners and next steps.\n* Create and refine work: Draft updates, replies, briefs, and other content without leaving Teams.\nWork with your organization's tools: Use supported files and enabled apps when they are available to ChatGPT.\n* Collaborate in context: Ask in natural language in channels and group chats, or use a direct message for individual work.\n\nRequirements and availability\n\nAdministrator setup is required before members can use the app. Availability and capabilities depend on your organization's ChatGPT plan, Microsoft Teams configuration, permissions, region, and enabled apps. Some requests may ask you to connect your ChatGPT account or another app.\n\nHelp: Visit https://help.openai.com for help articles. If setup is incomplete, contact your organization's Microsoft Teams or ChatGPT administrator.\n\nContact support: Open the chat bubble at https://help.openai.com. Support instructions: https://help.openai.com/en/articles/6614161-how-can-i-contact-support.\n\nAI-generated content\n\nChatGPT uses artificial intelligence to generate responses and may make mistakes. Review important information before using or sharing it.\n\nTo report inappropriate, harmful, or offensive AI-generated content, visit https://openai.com/form/report-content/.\n",
+        "largeImageURL": "https://res.cdn.office.net/teamsappdata/app-assets/ring_chatgpt_private_preview/a37eb519-d163-49a2-8df3-7b27851f3e5f/a37eb519-d163-49a2-8df3-7b27851f3e5f_largeImage.png?v=1.0.10",
+        "developerUrl": "https://help.openai.com/",
+        "privacyUrl": "https://openai.com/policies/row-privacy-policy/",
+        "termsOfUseUrl": "https://openai.com/policies/row-terms-of-use/",
+        "webApplicationInfo": {
+          "id": "4ece0157-bbb0-48cd-a7d8-624e4824cd47",
+          "resource": "https://openai.com"
+        },
+        "appInstanceDefinition": {}
+      },
+      {
         "version": "1.0.2",
         "id": "ba1cabe6-dfd2-4334-96c0-0dcdf86e18e5",
         "name": "Shared Power Apps",
