@@ -1,4 +1,6 @@
 {
+	"value": {
+		"appDefinitions": [{
   "manifestVersion": "1.29",
   "id": "c92c289e-ceb4-4755-819d-0d1dffdab6fa",
   "version": "67.26318.16",
@@ -52535,4 +52537,7 @@
       }
     }
   ]
+}
+]
+          }
 }
