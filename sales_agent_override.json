@@ -417,7 +417,7 @@
           "type": "Application"
         },
         {
-          "name": "Mailbox.AccessSharedFolders.User",
+          "name": "Mailbox.SharedFolder",
           "type": "Delegated"
         }
       ]
